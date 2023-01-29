@@ -1,8 +1,8 @@
-## Weather-app
+# Weather-app
 Flutter app from weather-api.
 
-# Api 
+## Api 
 https://www.weatherapi.com/api-explorer.aspx.
 
-#  State Management
+##  State Management
 Using cubit/bloc.
