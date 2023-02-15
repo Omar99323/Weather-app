@@ -1,5 +1,5 @@
 # Weather-app
-Flutter app from weather-api.
+Flutter app from weather api.
 
 ## Api 
 https://www.weatherapi.com/api-explorer.aspx.
